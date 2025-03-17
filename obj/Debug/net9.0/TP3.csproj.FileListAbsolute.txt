@@ -1,0 +1,15 @@
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/bin/Debug/net9.0/TP3
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/bin/Debug/net9.0/TP3.deps.json
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/bin/Debug/net9.0/TP3.runtimeconfig.json
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/bin/Debug/net9.0/TP3.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/bin/Debug/net9.0/TP3.pdb
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.GeneratedMSBuildEditorConfig.editorconfig
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.AssemblyInfoInputs.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.AssemblyInfo.cs
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.csproj.CoreCompileInputs.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.sourcelink.json
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/refint/TP3.dll
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.pdb
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/TP3.genruntimeconfig.cache
+/home/marufa/Developer/Engenharia_de_software/Fundamentos_de_Desenvolvimento_com_C#/TP3/obj/Debug/net9.0/ref/TP3.dll
